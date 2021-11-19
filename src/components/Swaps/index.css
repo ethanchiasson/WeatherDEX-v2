@@ -1,0 +1,9 @@
+.SwapsContainer {
+  max-height: 20px;
+}
+
+.Swaps {
+  height: 350px;
+  overflow-y: auto;
+  min-width: 450px;
+}

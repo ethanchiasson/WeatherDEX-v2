@@ -1,0 +1,11 @@
+.SwapsContainer {
+  max-height: 20px;
+  width: 500px;
+  min-width: 500px;
+}
+
+.SwapManager {
+  height: 270px;
+  overflow-y: auto;
+  min-width: 450px;
+}

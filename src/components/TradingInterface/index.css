@@ -1,0 +1,9 @@
+.tradingContainer {
+  min-width: 270px;
+  /* height: 630px !important; */
+  height: auto;
+}
+
+.content-center {
+  margin: auto;
+}

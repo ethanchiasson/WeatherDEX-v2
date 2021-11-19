@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  justify-content: space-between;
+  padding: 8px;
+  max-width: 980px !important;
+}
+
+.left {
+  flex: 1;
+  justify-content: center;
+  margin: 0.5em;
+}
+
+.right {
+  flex: 1.5;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0.5em;
+}
+
+.selectContainer {
+  max-width: 980px !important;
+  margin: 0 auto;
+  padding: 8px;
+  display: flex;
+  justify-content: flex-start;
+}
